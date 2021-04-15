@@ -13,7 +13,7 @@ Then make a completely new change here:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 (Here's a Cheatsheet)
 
-- [ ] Create a Checklist
+- [ ] List
 
 
 <h1>Big word</h1>
